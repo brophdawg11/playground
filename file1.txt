@@ -1,3 +1,4 @@
 Contents of file 1
 
 Added in feature branch
+Added in feature branch2
