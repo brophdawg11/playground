@@ -1,3 +1,5 @@
+Added in master
+
 Contents of file 2
 
 Added in feature branch
