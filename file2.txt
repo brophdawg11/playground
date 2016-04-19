@@ -6,3 +6,5 @@ Contents of file 2
 Added in feature branch
 
 Added in rebase
+
+Added in rebase in origin
