@@ -1,1 +1,3 @@
+Added in master
+
 Contents of file 2
