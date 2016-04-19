@@ -3,6 +3,7 @@ Added in master2
 Added in master 3
 
 Contents of file 1
+edit 3
 
 Added in feature branch
 Added in feature branch2
