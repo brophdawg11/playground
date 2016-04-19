@@ -1,5 +1,6 @@
 Added in master
 Added in master2
+Added in master 3
 
 Contents of file 1
 
