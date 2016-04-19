@@ -2,3 +2,6 @@ Added in master
 Added in master2
 
 Contents of file 1
+
+Added in feature branch
+Added in feature branch2
